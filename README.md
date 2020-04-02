@@ -25,10 +25,7 @@ Objects:
 
 For more information please refer for the in-code comments
 ======================================================================================
-        EXECUTING THE PROGRAM BELOW
-======================================================================================
-
-Creating grid:
+       Creating grid:
   Discount factor: 0.9
    Generating random policy
    Random policy created:
@@ -75,3 +72,6 @@ Got to goal state
 |   | B |   |   |
 |   |   |   |   |
 |   |   |   | U |
+======================================================================================
+
+
